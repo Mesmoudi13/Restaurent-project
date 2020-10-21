@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Mesmoudi13/Restaurent-project#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "boostrap": "^2.0.0"
   }
 }
