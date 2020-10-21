@@ -1,6 +1,24 @@
-.navbar{
-    background-color: black;
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+.nav-link{
+    color: grey !important;
+    margin: 5px 30px;
+    font-weight: 500;
+    font-size: 18px;
 }
-a{
-    color: magenta;
+.nav-link:hover{
+    color: orangered !important;
 }
+.logo{
+    margin: 5px 30px;
+}
+.navbar-toggler{
+    margin: 10px;
+}
+.navbar-toggler:hover,:active{
+    color: orangered;
+}
+
+
+
