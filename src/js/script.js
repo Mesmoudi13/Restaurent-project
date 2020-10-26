@@ -1,4 +1,4 @@
-buttonAni = document.querySelector('.reserve')
+buttonAni = document.querySelector('.bttn')
 
 buttonAni.addEventListener('click', e => buttonPress(e))
 
