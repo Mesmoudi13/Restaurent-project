@@ -12,7 +12,6 @@
 .nav-link:hover{
     color: orangered !important;
 }
-
 .logo{
     margin: 5px 15px;
 }
@@ -106,7 +105,7 @@
   }
 
 .order{
-    width: 30vh;
+    width: 15vw;
     height: 60px;
     border: solid 1px orangered;
     border-radius: 5px;
@@ -160,6 +159,42 @@
     -webkit-transform: scaleY(1);
     transform: scaleY(1);
   }
+
+
+  /****chef section****/
+
+  .chef_sec{
+      margin: 120px 30px 0 30px;
+  }
+  .chef_img{
+      flex-shrink: 0;
+      min-width: 100%;
+      max-height: 700px
+  }
+  
+  
+
+  #we_provide{
+    font-size: 3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 50px;
+  }
+  @media (max-width: 1200px) {
+    #we_provide{
+      font-size: calc(1rem + 2vw);
+    }
+  }
+  #chef_p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: grey;
+    font-weight: 100;
+    font-size: 16px;
+  }
+  .chef_bla{
+    justify-content: center;
+  }
+
+
 
 
 

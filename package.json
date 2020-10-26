@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
-    "boostrap": "^2.0.0"
+    "boostrap": "^2.0.0",
+    "rfs": "^9.0.3"
   }
 }
