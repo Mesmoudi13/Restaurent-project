@@ -1,12 +1,11 @@
 {
   "name": "restaurent-project",
   "version": "1.0.0",
-  "description": "node package manager for restaurent-project",
-  "main": "index.js",
+  "description": "this a one page restaurent website",
+  "main": "app.js",
   "scripts": {
-    "start": "npm run lite",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lite": "lite-server"
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -17,13 +16,5 @@
   "bugs": {
     "url": "https://github.com/Mesmoudi13/Restaurent-project/issues"
   },
-  "homepage": "https://github.com/Mesmoudi13/Restaurent-project#readme",
-  "devDependencies": {
-    "lite-server": "^2.5.4"
-  },
-  "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.1",
-    "boostrap": "^2.0.0",
-    "rfs": "^9.0.3"
-  }
+  "homepage": "https://github.com/Mesmoudi13/Restaurent-project#readme"
 }
