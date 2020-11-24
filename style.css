@@ -129,8 +129,8 @@
         opacity: 1;
         transition: all 0.5s ease;
         z-index: 99;
-        height: 60vh;
-        font-size: 1.6rem;
+        height: 70vh;
+        font-size: 1.5rem;
     }
     #navbar__logo{
         padding: 25px;
@@ -433,7 +433,7 @@ background-size: 100%;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
-    margin-bottom: 5rem;
+    margin-bottom: 3rem;
     font-size: 4rem;
 }
 
@@ -445,7 +445,7 @@ background-size: 100%;
 
 .menu__card{
     margin: 50px 15px;
-    height: 425px;
+    height: 350px;
     width: 295px;
     border-radius: 10px;
     display: flex;
