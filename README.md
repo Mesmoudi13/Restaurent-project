@@ -1,3 +1,3 @@
 # Restaurent-project
 
-This project is a simple one page website which i built with HTML,CSS and pure JS
+A simple one page restaurent website which i built from scratch with HTML,CSS and vanilla JS
